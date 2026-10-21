@@ -1,2 +1,2 @@
-# Introduction_To_AI_-Assignemts-
+# Introduction_To_AI_-Assignments-
 ASSIGNEMTS
